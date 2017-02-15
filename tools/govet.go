@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	res, err := http.Get("https://golang.org")
+	res, err := http.Get("https://golang.orz")
 	defer res.Body.Close()
 	if err != nil {
 		log.Fatal(err)
