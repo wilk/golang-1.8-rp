@@ -452,16 +452,6 @@ A simple example:
 HTTP: [[http://localhost:8080]]
 HTTP/2: [[https://localhost:8081]]
 
-* HTTP/2
-
-HTTP
-
-.image img/http.png _ 800
-
-HTTP/2
-
-.image img/http2.png _ 800
-
 * More context support
 
 Since Go 1.7:
